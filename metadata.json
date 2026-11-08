@@ -1,0 +1,6 @@
+{
+  "name": "Mirnu Gastrobar",
+  "description": "Site oficial do Mirnu Gastrobar em Prazeres, Jaboatão dos Guararapes. Almoço todos os dias das 08h às 15h e Happy Hour de quinta a domingo das 18h às 23h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
